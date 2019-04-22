@@ -105,8 +105,8 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
 center: [-93.094276, 44.943722],
-zoom: 10.3,
-minZoom: 10.3
+zoom: 10.1,
+minZoom: 10.1
 });
 
 map.addControl(new mapboxgl.NavigationControl());
