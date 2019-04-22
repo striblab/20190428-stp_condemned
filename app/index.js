@@ -79,6 +79,7 @@ utils.autoEnablePym();
 
 import condemn from '../sources/condemned.json';
 import stp from '../sources/stpaul.json';
+import nb from '../sources/stpaul_neighborhoods.json';
 
 $.urlParam = function(name) {
     var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
@@ -113,13 +114,30 @@ map.addControl(new mapboxgl.NavigationControl());
 
 map.on('load', function() {
 
+    map.addSource('nb', {
+        type: 'geojson',
+        data: nb
+      });
+      
+      map.addLayer({
+        'id': 'nb-layer',
+        'interactive': true,
+        'source': 'nb',
+        'layout': {},
+        'type': 'line',
+          'paint': {
+            'line-color': 'rgba(88,88,88,1)',
+            'line-width': 1
+          }
+      }, 'place-town');
+
     map.addSource('stp', {
         type: 'geojson',
         data: stp
       });
       
       map.addLayer({
-        'id': 'stp',
+        'id': 'stp-layer',
         'interactive': true,
         'source': 'stp',
         'layout': {},
