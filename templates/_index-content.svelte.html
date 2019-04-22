@@ -1,0 +1,21 @@
+
+<div id="wrapper">
+  <div class="slide" id="mapTags">
+    <div class="chatter">Shows buildings that have been <span class="legendary orange3">condemned</span> due to water shutoffs in St. Paul.</div>
+    <div class="map" id="map"></div>
+    <div class="byline">Data source: City of St. Paul | Graphic by <a href="http://www.startribune.com/jeff-hargarten/274254381/" target="new_">Jeff Hargarten, Star Tribune</a></div>
+  </div>
+</div>
+
+<script>
+  export default {
+    oncreate() {
+      // For content that lives in the CMS directly, we hack
+      // around the share bits by removing it before we load
+      // the component, then re-attach here.
+      if (this.get().attachShare) {
+        this.get().attachShare();
+      }
+    }
+  };
+</script>

@@ -1,0 +1,2261 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.19818,44.9763 ]
+    },
+    "properties": {
+    "address":"1 LUDLOW AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05816,44.95916 ]
+    },
+    "properties": {
+    "address":"1002 5TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05797,44.97727 ]
+    },
+    "properties": {
+    "address":"1006 MARYLAND AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05776,44.97236 ]
+    },
+    "properties": {
+    "address":"1013 LAWSON AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14313,44.95457 ]
+    },
+    "properties": {
+    "address":"1016 AURORA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13371,44.97206 ]
+    },
+    "properties": {
+    "address":"1027 AVON ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09004,44.93075 ]
+    },
+    "properties": {
+    "address":"103 ROBIE ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05704,44.95889 ]
+    },
+    "properties": {
+    "address":"1031 4TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1412,44.97222 ]
+    },
+    "properties": {
+    "address":"1034 CHATSWORTH ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14286,44.97224 ]
+    },
+    "properties": {
+    "address":"1035 ARGYLE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13879,44.97231 ]
+    },
+    "properties": {
+    "address":"1037 COLNE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14387,44.9578 ]
+    },
+    "properties": {
+    "address":"1039 CHARLES AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.056,44.95791 ]
+    },
+    "properties": {
+    "address":"1055 FREMONT AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1331,44.97315 ]
+    },
+    "properties": {
+    "address":"1060 AVON ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05522,44.94983 ]
+    },
+    "properties": {
+    "address":"1069 SUBURBAN AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14563,44.92753 ]
+    },
+    "properties": {
+    "address":"1074 JAMES AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13514,44.97352 ]
+    },
+    "properties": {
+    "address":"1076 BARRETT ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05454,44.95831 ]
+    },
+    "properties": {
+    "address":"1092 4TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13919,44.97414 ]
+    },
+    "properties": {
+    "address":"1092 RYDE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11012,44.97411 ]
+    },
+    "properties": {
+    "address":"1093 MARION ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.028722,44.974657 ]
+    },
+    "properties": {
+    "address":"1110 KINGSFORD ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05307,44.97598 ]
+    },
+    "properties": {
+    "address":"1119 GERANIUM AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03,44.97524 ]
+    },
+    "properties": {
+    "address":"1124 KENNARD ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11192,44.97505 ]
+    },
+    "properties": {
+    "address":"1124 MATILDA ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02746,44.97564 ]
+    },
+    "properties": {
+    "address":"1138 FLANDRAU ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09604,44.97547 ]
+    },
+    "properties": {
+    "address":"1140 JACKSON ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05158,44.96606 ]
+    },
+    "properties": {
+    "address":"1159 ROSS AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15028,44.96181 ]
+    },
+    "properties": {
+    "address":"1186 VAN BUREN AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05058,44.95829 ]
+    },
+    "properties": {
+    "address":"1188 4TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11067,44.97694 ]
+    },
+    "properties": {
+    "address":"1188 GALTIER ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05023,44.97869 ]
+    },
+    "properties": {
+    "address":"1189 HAWTHORNE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04982,44.96243 ]
+    },
+    "properties": {
+    "address":"1199 BEECH ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04967,44.95723 ]
+    },
+    "properties": {
+    "address":"1199 HANCOCK ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15083,44.94688 ]
+    },
+    "properties": {
+    "address":"1201 SELBY AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04931,44.95697 ]
+    },
+    "properties": {
+    "address":"1213 3RD ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07772,44.97792 ]
+    },
+    "properties": {
+    "address":"1215 JESSIE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10877,44.97812 ]
+    },
+    "properties": {
+    "address":"1225 WOODBRIDGE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15237,44.96542 ]
+    },
+    "properties": {
+    "address":"1232 HUBBARD AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04735,44.96511 ]
+    },
+    "properties": {
+    "address":"1261 BUSH AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04728,44.96284 ]
+    },
+    "properties": {
+    "address":"1262 MINNEHAHA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04713,44.96646 ]
+    },
+    "properties": {
+    "address":"1266 7TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10627,44.97965 ]
+    },
+    "properties": {
+    "address":"1277 RICE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15488,44.96682 ]
+    },
+    "properties": {
+    "address":"1293 HEWITT AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1557,44.92902 ]
+    },
+    "properties": {
+    "address":"1315 PALACE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15571,44.93444 ]
+    },
+    "properties": {
+    "address":"1315 ST CLAIR AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07971,44.92692 ]
+    },
+    "properties": {
+    "address":"134 ELIZABETH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16402,44.98162 ]
+    },
+    "properties": {
+    "address":"1340 ARONA ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04159,44.98175 ]
+    },
+    "properties": {
+    "address":"1342 ETNA ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04393,44.95793 ]
+    },
+    "properties": {
+    "address":"1345 FREMONT AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15763,44.95687 ]
+    },
+    "properties": {
+    "address":"1359 SHERBURNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04265,44.95972 ]
+    },
+    "properties": {
+    "address":"1367 5TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03966,44.98321 ]
+    },
+    "properties": {
+    "address":"1389 WINCHELL ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16094,44.95685 ]
+    },
+    "properties": {
+    "address":"1439 SHERBURNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03943,44.98816 ]
+    },
+    "properties": {
+    "address":"1442 HOYT AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09189,44.93283 ]
+    },
+    "properties": {
+    "address":"146 ISABEL ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16309,44.95001 ]
+    },
+    "properties": {
+    "address":"1490 CARROLL AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03639,44.95745 ]
+    },
+    "properties": {
+    "address":"1516 FREMONT AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16441,44.95095 ]
+    },
+    "properties": {
+    "address":"1520 CONCORDIA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03516,44.95455 ]
+    },
+    "properties": {
+    "address":"1547 EUCLID ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03449,44.95282 ]
+    },
+    "properties": {
+    "address":"1559 HUDSON ROAD",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01541,44.98891 ]
+    },
+    "properties": {
+    "address":"1575 RUTH ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0774,44.93369 ]
+    },
+    "properties": {
+    "address":"158 DELOS ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03358,44.98142 ]
+    },
+    "properties": {
+    "address":"1581 IVY AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16858,44.9608 ]
+    },
+    "properties": {
+    "address":"1616 BLAIR AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15621,44.98987 ]
+    },
+    "properties": {
+    "address":"1618 HAMLINE AVE N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02047,44.9906 ]
+    },
+    "properties": {
+    "address":"1635 HAZEL ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03133,44.985 ]
+    },
+    "properties": {
+    "address":"1637 ARLINGTON AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03104,44.96158 ]
+    },
+    "properties": {
+    "address":"1645 MARGARET ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04614,44.9912 ]
+    },
+    "properties": {
+    "address":"1651 ENGLISH ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.086656,44.991087 ]
+    },
+    "properties": {
+    "address":"1655 WESTMINSTER ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09987,44.99116 ]
+    },
+    "properties": {
+    "address":"1656 GURNEY ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08593,44.99136 ]
+    },
+    "properties": {
+    "address":"1668 WESTMINSTER ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0926,44.93161 ]
+    },
+    "properties": {
+    "address":"167 WINIFRED ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02965,44.95831 ]
+    },
+    "properties": {
+    "address":"1676 4TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14613,44.94638 ]
+    },
+    "properties": {
+    "address":"168 LEXINGTON PKWY N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02928,44.96428 ]
+    },
+    "properties": {
+    "address":"1685 REANEY AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0291,44.95614 ]
+    },
+    "properties": {
+    "address":"1691 CONWAY ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02867,44.97725 ]
+    },
+    "properties": {
+    "address":"1700 MARYLAND AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02758,44.97782 ]
+    },
+    "properties": {
+    "address":"1721 MARYLAND AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02754,44.99168 ]
+    },
+    "properties": {
+    "address":"1722 LARPENTEUR AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02759,44.97175 ]
+    },
+    "properties": {
+    "address":"1726 AMES PLACE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17352,44.96373 ]
+    },
+    "properties": {
+    "address":"1734 ENGLEWOOD AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02697,44.99042 ]
+    },
+    "properties": {
+    "address":"1737 IDAHO AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17442,44.92092 ]
+    },
+    "properties": {
+    "address":"1755 ELEANOR AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09317,44.92987 ]
+    },
+    "properties": {
+    "address":"177 GEORGE ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1762,44.9108 ]
+    },
+    "properties": {
+    "address":"1790 HAMPSHIRE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02449,44.97995 ]
+    },
+    "properties": {
+    "address":"1800 HYACINTH AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02394,44.98317 ]
+    },
+    "properties": {
+    "address":"1805 COTTAGE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02382,44.97054 ]
+    },
+    "properties": {
+    "address":"1811 CASE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17685,44.95991 ]
+    },
+    "properties": {
+    "address":"1812 LAFOND AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02358,44.97054 ]
+    },
+    "properties": {
+    "address":"1821 CASE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0231,44.96801 ]
+    },
+    "properties": {
+    "address":"1833 STILLWATER AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02279,44.98137 ]
+    },
+    "properties": {
+    "address":"1837 IVY AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02215,44.98537 ]
+    },
+    "properties": {
+    "address":"1850 NEVADA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.02239,44.94593 ]
+    },
+    "properties": {
+    "address":"187 FAYE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17992,44.94917 ]
+    },
+    "properties": {
+    "address":"1882 IGLEHART AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.18097,44.93092 ]
+    },
+    "properties": {
+    "address":"1909 JEFFERSON AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01965,44.96178 ]
+    },
+    "properties": {
+    "address":"1911 MARGARET ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.018,44.98628 ]
+    },
+    "properties": {
+    "address":"1952 NEBRASKA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07696,44.92198 ]
+    },
+    "properties": {
+    "address":"200 BELVIDERE ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01343,44.99044 ]
+    },
+    "properties": {
+    "address":"2059 IDAHO AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01178,44.98176 ]
+    },
+    "properties": {
+    "address":"2100 CLEAR AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.19073,44.93185 ]
+    },
+    "properties": {
+    "address":"2137 WELLESLEY AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.00873,44.95969 ]
+    },
+    "properties": {
+    "address":"2171 5TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09572,44.93081 ]
+    },
+    "properties": {
+    "address":"241 ROBIE ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1777,44.90376 ]
+    },
+    "properties": {
+    "address":"2531 EDGCUMBE ROAD",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09645,44.92099 ]
+    },
+    "properties": {
+    "address":"255 WYOMING ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16536,44.93344 ]
+    },
+    "properties": {
+    "address":"266 BRIMHALL ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09683,44.9214 ]
+    },
+    "properties": {
+    "address":"266 WINONA ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04589,44.94984 ]
+    },
+    "properties": {
+    "address":"277 ENGLISH ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15913,44.93306 ]
+    },
+    "properties": {
+    "address":"284 ALBERT ST S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09967,44.92433 ]
+    },
+    "properties": {
+    "address":"332 PAGE ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12856,44.93115 ]
+    },
+    "properties": {
+    "address":"343 OSCEOLA AVE S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1973,44.93116 ]
+    },
+    "properties": {
+    "address":"344 MISSISSIPPI RIVER BLVD S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15722,44.93076 ]
+    },
+    "properties": {
+    "address":"357 HAMLINE AVE S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08501,44.97217 ]
+    },
+    "properties": {
+    "address":"363 LAWSON AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11566,44.98658 ]
+    },
+    "properties": {
+    "address":"373 NEBRASKA AVE W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08436,44.97167 ]
+    },
+    "properties": {
+    "address":"384 LAWSON AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11799,44.9609 ]
+    },
+    "properties": {
+    "address":"426 BLAIR AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11835,44.9582 ]
+    },
+    "properties": {
+    "address":"434 EDMUND AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11919,44.9564 ]
+    },
+    "properties": {
+    "address":"448 SHERBURNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10912,44.93809 ]
+    },
+    "properties": {
+    "address":"454 SMITH AVE N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1195,44.95692 ]
+    },
+    "properties": {
+    "address":"457 SHERBURNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10208,44.97006 ]
+    },
+    "properties": {
+    "address":"46 FRONT AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06473,44.92059 ]
+    },
+    "properties": {
+    "address":"491 WYOMING ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12207,44.95909 ]
+    },
+    "properties": {
+    "address":"518 THOMAS AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12207,44.96179 ]
+    },
+    "properties": {
+    "address":"518 VAN BUREN AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07784,44.97045 ]
+    },
+    "properties": {
+    "address":"537 CASE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09815,44.92914 ]
+    },
+    "properties": {
+    "address":"553 OHIO ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.124,44.95735 ]
+    },
+    "properties": {
+    "address":"560 CHARLES AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04975,44.95814 ]
+    },
+    "properties": {
+    "address":"561 GOTZIAN ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1164,44.95833 ]
+    },
+    "properties": {
+    "address":"567 WESTERN AVE N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.09845,44.98973 ]
+    },
+    "properties": {
+    "address":"58 WHEELOCK PKWY E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08775,44.92898 ]
+    },
+    "properties": {
+    "address":"59 STEVENS ST W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01251,44.92173 ]
+    },
+    "properties": {
+    "address":"599 BURLINGTON ROAD",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01721,44.94159 ]
+    },
+    "properties": {
+    "address":"6 SANDRALEE DRIVE W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08036,44.92769 ]
+    },
+    "properties": {
+    "address":"604 ROBERT ST S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10268,44.9601 ]
+    },
+    "properties": {
+    "address":"619 CAPITOL BLVD",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08617,44.92675 ]
+    },
+    "properties": {
+    "address":"636 HALL AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12748,44.94917 ]
+    },
+    "properties": {
+    "address":"648 IGLEHART AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0729,44.97359 ]
+    },
+    "properties": {
+    "address":"652 MAGNOLIA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07278,44.979 ]
+    },
+    "properties": {
+    "address":"654 ORANGE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13414,44.92159 ]
+    },
+    "properties": {
+    "address":"655 CANTON ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07608,44.96118 ]
+    },
+    "properties": {
+    "address":"662 PAYNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06713,44.95095 ]
+    },
+    "properties": {
+    "address":"664 PLUM ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1744,44.9615 ]
+    },
+    "properties": {
+    "address":"672 WHEELER ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08848,44.92558 ]
+    },
+    "properties": {
+    "address":"675 STRYKER AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07947,44.92552 ]
+    },
+    "properties": {
+    "address":"684 STATE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07145,44.98766 ]
+    },
+    "properties": {
+    "address":"693 MONTANA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01546,44.94313 ]
+    },
+    "properties": {
+    "address":"71 RUTH ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13015,44.95504 ]
+    },
+    "properties": {
+    "address":"711 AURORA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.07051,44.96962 ]
+    },
+    "properties": {
+    "address":"711 SIMS AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06425,44.95273 ]
+    },
+    "properties": {
+    "address":"726 PLUM ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13082,44.95688 ]
+    },
+    "properties": {
+    "address":"727 SHERBURNE AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1725,44.96339 ]
+    },
+    "properties": {
+    "address":"737 ALDINE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14108,44.91891 ]
+    },
+    "properties": {
+    "address":"750 CHATSWORTH ST S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10213,44.92287 ]
+    },
+    "properties": {
+    "address":"771 SMITH AVE S",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06704,44.97504 ]
+    },
+    "properties": {
+    "address":"789 JESSAMINE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13388,44.95456 ]
+    },
+    "properties": {
+    "address":"794 AURORA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.18015,44.96512 ]
+    },
+    "properties": {
+    "address":"797 TATUM ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13415,44.96052 ]
+    },
+    "properties": {
+    "address":"801 LAFOND AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10667,44.92133 ]
+    },
+    "properties": {
+    "address":"818 CHIPPEWA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0647,44.97324 ]
+    },
+    "properties": {
+    "address":"847 COOK AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06469,44.97906 ]
+    },
+    "properties": {
+    "address":"848 ORANGE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13682,44.95419 ]
+    },
+    "properties": {
+    "address":"867 FULLER AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.19767,44.96766 ]
+    },
+    "properties": {
+    "address":"874 RAYMOND AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10018,44.91977 ]
+    },
+    "properties": {
+    "address":"876 MANOMIN AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06324,44.97235 ]
+    },
+    "properties": {
+    "address":"881 LAWSON AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06323,44.96916 ]
+    },
+    "properties": {
+    "address":"882 SIMS AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13771,44.9212 ]
+    },
+    "properties": {
+    "address":"888 SCHEFFER AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04225,44.96823 ]
+    },
+    "properties": {
+    "address":"890 CLARENCE ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1378,44.94469 ]
+    },
+    "properties": {
+    "address":"892 LAUREL AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.08335,44.96824 ]
+    },
+    "properties": {
+    "address":"896 ARKWRIGHT ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11011,44.96829 ]
+    },
+    "properties": {
+    "address":"897 MARION ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13801,44.92353 ]
+    },
+    "properties": {
+    "address":"899 TUSCARORA AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06246,44.96009 ]
+    },
+    "properties": {
+    "address":"902 6TH ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13832,44.95818 ]
+    },
+    "properties": {
+    "address":"904 EDMUND AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06201,44.95609 ]
+    },
+    "properties": {
+    "address":"911 CONWAY ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06204,44.96825 ]
+    },
+    "properties": {
+    "address":"912 YORK AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13956,44.99073 ]
+    },
+    "properties": {
+    "address":"934 CALIFORNIA AVE W",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06006,44.95519 ]
+    },
+    "properties": {
+    "address":"957 EUCLID ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05977,44.95609 ]
+    },
+    "properties": {
+    "address":"963 CONWAY ST",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03297,44.97058 ]
+    },
+    "properties": {
+    "address":"968 GERMAIN COURT",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0596,44.96331 ]
+    },
+    "properties": {
+    "address":"969 MINNEHAHA AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05931,44.957 ]
+    },
+    "properties": {
+    "address":"977 3RD ST E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.14193,44.93754 ]
+    },
+    "properties": {
+    "address":"994 GOODRICH AVE",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.13783,44.97116 ]
+    },
+    "properties": {
+    "address":"995 MILTON ST N",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.05855,44.97906 ]
+    },
+    "properties": {
+    "address":"996 ORANGE AVE E",
+    "city":"St. Paul",
+    "state":"MN"
+    }
+  }
+]
+}
