@@ -106,47 +106,14 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/shadowflare/ciqzo0bu20004bknkbrhrm6wf',
 center: [-93.094276, 44.943722],
-zoom: 10.1,
-minZoom: 10.1
+zoom: 10.4,
+minZoom: 10.4
 });
 
 map.addControl(new mapboxgl.NavigationControl());
 
 map.on('load', function() {
 
-    map.addSource('nb', {
-        type: 'geojson',
-        data: nb
-      });
-      
-      map.addLayer({
-        'id': 'nb-layer',
-        'interactive': true,
-        'source': 'nb',
-        'layout': {},
-        'type': 'line',
-          'paint': {
-            'line-color': 'rgba(88,88,88,1)',
-            'line-width': 1
-          }
-      }, 'place-town');
-
-    map.addSource('stp', {
-        type: 'geojson',
-        data: stp
-      });
-      
-      map.addLayer({
-        'id': 'stp-layer',
-        'interactive': true,
-        'source': 'stp',
-        'layout': {},
-        'type': 'line',
-          'paint': {
-            'line-color': 'rgba(0,0,0,1)',
-            'line-width': 1.5
-          }
-      }, 'place-town');
 
  map.addSource('condemned', {
    type: 'geojson',
@@ -163,5 +130,56 @@ map.on('load', function() {
         "circle-opacity": 0.6
       },
     }, 'place-neighbourhood');
+
+    map.addSource('nb', {
+        type: 'geojson',
+        data: nb
+      });
+      
+      map.addLayer({
+        'id': 'nb-layer-2',
+        'interactive': true,
+        'source': 'nb',
+        'layout': {},
+        'type': 'fill',
+          'paint': {
+            'fill-color': 'rgba(88,88,88,0)'
+          }
+      }, 'place-town');
+
+    map.addLayer({
+        'id': 'nb-layer',
+        'interactive': true,
+        'source': 'nb',
+        'layout': {},
+        'type': 'line',
+          'paint': {
+            'line-color': 'rgba(88,88,88,1)',
+            'line-width': 1
+          }
+      }, 'place-town');
+
+    var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
+
+    map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {
+            layers: ['nb-layer-2']
+        });
+        map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+
+        if (!features.length) {
+            popup.remove();
+            return;
+        }
+
+        var feature = features[0];
+
+        popup.setLngLat(e.lngLat)
+            .setHTML(feature.properties.NAME)
+            .addTo(map);
+    });
 
 });
